@@ -184,6 +184,66 @@ SHELF_LIFE_DAYS: dict[str, int] = {
     "celeriac": 14,
     "lemon grass": 14,
     "lemongrass": 14,
+
+        # Additional fruits
+    "capsicum": 10,            # same as bell pepper
+    "capsicums": 10,
+    "sweet pepper": 10,
+    "sweet peppers": 10,
+
+    "green chilli": 14,
+    "green chillies": 14,
+    "green chili": 14,
+    "green chilies": 14,
+
+    "red chilli": 14,
+    "red chillies": 14,
+    "red chili": 14,
+    "red chilies": 14,
+
+    "poblano": 7,
+    "poblanos": 7,
+    "serrano": 14,
+    "serranos": 14,
+
+    # Common global vegetables
+    "aubergine": 7,            # eggplant UK name
+    "aubergines": 7,
+
+    "courgette": 5,            # zucchini UK name
+    "courgettes": 5,
+
+    "pak choi": 5,             # bok choy alt spelling
+    "pak choy": 5,
+
+    "yam": 14,
+    "yams": 14,
+
+    "cassava": 4,
+    "taro": 7,
+
+    "drumstick": 5,            # moringa pods
+    "moringa": 5,
+
+    # Leafy greens commonly used in UK/India
+    "fenugreek": 3,
+    "fenugreek leaves": 3,
+    "methi": 3,
+
+    "mustard greens": 5,
+
+    # Fresh aromatics
+    "curry leaves": 7,
+    "bay leaf": 14,
+    "bay leaves": 14,
+
+    # Other commonly bought produce
+    "chayote": 14,
+    "okra pods": 4,
+    "sweetcorn": 3,
+    "baby corn": 5,
+
+    "rocket": 5,               # arugula UK name
 }
 
 
